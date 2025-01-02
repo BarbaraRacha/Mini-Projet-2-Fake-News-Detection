@@ -6,7 +6,7 @@ Ce projet vise à détecter les fausses nouvelles en combinant les atouts des mo
 ## Membres du Projet
 - **Barbara Racha**
 - **Zerheri Fatima Zahrae**
-- 
+  
 ---
 
 ## Objectifs
